@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: rgb(237, 201, 155);
+    display: flex;
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+#box1{
+    
+    background-color: rgb(177, 116, 37);
+
+}
+#box2{
+    background-color: rgb(96, 65, 24);
+}
+#box3{
+    background-color: rgb(51, 29, 0);
+}
